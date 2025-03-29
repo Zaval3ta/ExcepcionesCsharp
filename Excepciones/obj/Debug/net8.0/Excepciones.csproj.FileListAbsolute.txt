@@ -1,0 +1,14 @@
+C:\Users\Zaval3ta\Desktop\Excepciones\Excepciones\bin\Debug\net8.0\Excepciones.exe
+C:\Users\Zaval3ta\Desktop\Excepciones\Excepciones\bin\Debug\net8.0\Excepciones.deps.json
+C:\Users\Zaval3ta\Desktop\Excepciones\Excepciones\bin\Debug\net8.0\Excepciones.runtimeconfig.json
+C:\Users\Zaval3ta\Desktop\Excepciones\Excepciones\bin\Debug\net8.0\Excepciones.dll
+C:\Users\Zaval3ta\Desktop\Excepciones\Excepciones\bin\Debug\net8.0\Excepciones.pdb
+C:\Users\Zaval3ta\Desktop\Excepciones\Excepciones\obj\Debug\net8.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaval3ta\Desktop\Excepciones\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfoInputs.cache
+C:\Users\Zaval3ta\Desktop\Excepciones\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfo.cs
+C:\Users\Zaval3ta\Desktop\Excepciones\Excepciones\obj\Debug\net8.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Zaval3ta\Desktop\Excepciones\Excepciones\obj\Debug\net8.0\Excepciones.dll
+C:\Users\Zaval3ta\Desktop\Excepciones\Excepciones\obj\Debug\net8.0\refint\Excepciones.dll
+C:\Users\Zaval3ta\Desktop\Excepciones\Excepciones\obj\Debug\net8.0\Excepciones.pdb
+C:\Users\Zaval3ta\Desktop\Excepciones\Excepciones\obj\Debug\net8.0\Excepciones.genruntimeconfig.cache
+C:\Users\Zaval3ta\Desktop\Excepciones\Excepciones\obj\Debug\net8.0\ref\Excepciones.dll
